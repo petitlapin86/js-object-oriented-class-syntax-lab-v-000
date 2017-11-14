@@ -11,6 +11,9 @@ veto() {
 approve() {
   return "You can do that!";
 }
+charity() {
+  return "I like to help people.";
+}
 
 
 }
