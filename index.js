@@ -5,3 +5,7 @@ class BoardMember {
     this.training = training;
   }
 }
+
+class Ceo extends BoardMember {
+  
+}
